@@ -1,7 +1,3 @@
-Here’s a concise and professional description for your project to upload it to GitHub. Feel free to customize it based on your preferences and specific project details:
-
----
-
 ### **Project Title**  
 **React Native Chatbot Application with Tailwind CSS**
 
